@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.container {
+    display: flex;          
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;     
+    height: 70vh;
+}
+
+h1 {
+    color: #C1272D;
+    width: 300px;
+    margin: 5px;
+    text-align: center;  
+    font-family: 'Potta One', cursive;   
+}
+p{
+    color: white;
+    width: 200px;
+    margin: 5px;
+    text-align: center;  
+    font-family: 'Potta One', cursive;   
+}
